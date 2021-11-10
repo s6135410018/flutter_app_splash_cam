@@ -1,16 +1,5 @@
 # flutter_app_splash_cam
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/89514717/141088444-20fe2b4c-c88e-48ee-ba85-cd2114d196ab.png" height="500">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/89514717/141088447-782d6fb4-23ba-4ee5-9dfb-c92349d20cfd.png" height="500">
